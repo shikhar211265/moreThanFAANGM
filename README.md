@@ -176,6 +176,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.bankbazaar.com/careers.html">bankbazaar</a>   </li>
 <li><a href="https://www.bazaarvoice.com/company/careers/">Bazaarvoice</a></li>
 <li><a href="https://careers.bcg.com/">BCG</a>   </li>
+<li><a href="https://binmile.com/">Binmile</a></li>
 <li><a href="http://www.bellatrixaerospace.com/">Bellatrix Aerospace</a></li>
 <li><a href="https://benchmarkit.zohorecruit.com/jobs/Careers">Benchmark</a> </li>
 <li><a href="https://better.com/about-us/careers">Better</a></li>
